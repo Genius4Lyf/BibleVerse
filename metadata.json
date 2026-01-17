@@ -1,0 +1,5 @@
+{
+  "name": "BibleVerse",
+  "description": "A social feed web app where biblical authors share verses and personal reflections.",
+  "requestFramePermissions": []
+}
